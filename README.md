@@ -1,5 +1,5 @@
 # Hi there I'm arup! 👋
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=arupx3492&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=arupx3492&show_icons=true&theme=blue-green"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arupx3492&layout=Compact)"/>
 <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
