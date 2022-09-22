@@ -9,9 +9,11 @@
 
 - 📫 How to reach me **arup71062@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1blEnNY09SZoKoHwKY4QH-S77hix8EHRd/view?usp=sharing](https://drive.google.com/file/d/1blEnNY09SZoKoHwKY4QH-S77hix8EHRd/view?usp=sharing)
+- 📄 my resume:- [https://drive.google.com/file/d/1blEnNY09SZoKoHwKY4QH-S77hix8EHRd/view?usp=sharing](https://drive.google.com/file/d/1blEnNY09SZoKoHwKY4QH-S77hix8EHRd/view?usp=sharing)
 
-- ⚡ Fun fact **User Friendly**
+- 💻 my portfolio:- https://arupx3492.github.io
+
+- ⚡ Fun fact **Friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
