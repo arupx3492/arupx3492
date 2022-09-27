@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arupx3492&label=Profile%20views&color=0e75b6&style=flat" alt="arupx3492" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arupx3492" alt="arupx3492" /></a> </p>
+
 - 🌱 I’m currently learning **SQl & Spring**
 
 - 📫 How to reach me **arup71062@gmail.com**
