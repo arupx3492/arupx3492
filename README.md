@@ -31,5 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arupx3492&show_icons=true&locale=en&layout=compact" alt="arupx3492" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arupx3492&show_icons=true&locale=en" alt="arupx3492"  height=142px /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=arupx3492&show_icons=true&locale=en" alt="arupx3492"  height=142px  margin-right= 250px; /></p>
 
