@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arupx3492" alt="arupx3492" /></a> </p>
 
-- 🌱 I’m currently learning **SQl & Spring**
+- 🌱 I’m currently learning **Hibernate & Spring**
 
 - 📫 How to reach me **arup71062@gmail.com**
 
