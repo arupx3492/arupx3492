@@ -12,8 +12,8 @@
 
 - 📫 How to reach me **arup71062@gmail.com**
 
-- 📄 my resume:- https://drive.google.com/file/d/1tRdYsgI2ZTLY4U3EBeergxirGVYZbKik/view?usp=sharing
-- 💻 my portfolio:- https://arupx3492.github.io
+- 📄 My Resume:- https://drive.google.com/file/d/1tRdYsgI2ZTLY4U3EBeergxirGVYZbKik/view?usp=sharing
+- 💻 My Portfolio:- https://arupx3492.github.io
 
 - ⚡ Fun fact **Friendly**
 
