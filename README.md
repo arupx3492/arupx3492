@@ -2,7 +2,9 @@
 
                     -------------------------------------------------------------------------------------------------------
 <h1 align="center">Hi 🙋‍♂️, I'm Arup Mahato</h1>
-<h3 align="center">Java Backend Developer With Strong Desire. Worked On 5+ Projects In Groups And Individuals. Always Interested In Learning New Things, And Working With New People. Also, Have A Good Interpersonal Skill.</h3>
+<h3 align="center">An ambitious Java Backend Developer with a strong knowledge of coding
+and DSA. Proficient in Java, Hibernate, SQL, Spring, and Spring Boot.
+Constant learner and ability to adapt to new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arupx3492&label=Profile%20views&color=0e75b6&style=flat" alt="arupx3492" /> </p>
 
