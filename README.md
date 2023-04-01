@@ -14,7 +14,7 @@ Constant learner and ability to adapt to new technologies.</h3>
 
 - 📫 How to reach me **arup71062@gmail.com**
 
-- 📄 [My Resume](https://1drv.ms/b/s!AhkYwq_Paiab-BMKV92QQTkR-bJK?e=51cNoc)
+- 📄 [My Resume](https://drive.google.com/file/d/1KEuU-q46b5nPdaFgDZdxKSot98G9xZL3/view?usp=sharing)
 - 💻 [My Portfolio](https://arupx3492.github.io)
 
 - ⚡ Fun fact **Friendly**
