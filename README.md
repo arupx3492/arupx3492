@@ -20,7 +20,7 @@ Constant learner and ability to adapt to new technologies.</h3>
 - ⚡ Fun fact **Friendly**
 
 
-## 🌐 Socials:
+##  🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/arupmahato.mahato.92) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arupx3492/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arup6649) 
